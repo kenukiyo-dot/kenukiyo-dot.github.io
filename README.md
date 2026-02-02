@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+please say yes
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
